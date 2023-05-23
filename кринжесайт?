@@ -1,0 +1,56 @@
+<p class="top-three-gays">
+
+  <a class="top-three-gays" href="http://interesno.cc/article/2896/20-geev-izmenivshih-istoriju-chelovechestva" target="_blank">
+  
+  ТОП-2 ГЕЯ
+ 
+  
+</a>
+<style>
+  .top-three-gays {
+    text-align: center;
+    width: 1350;
+    height: 100;
+    font-size: 300px;
+    font-weight: bold;
+    color: black;
+    text-decoration: none;
+  }
+  .top-three-gays:hover {
+    
+    opacity: 0.9;
+    
+    
+  }
+  .top-three-gays:active {
+    opacity: 0.8;
+  }
+</style>
+
+<p>
+  <a href="https://memepedia.ru/chernyj-vlastelin/" target="_blank">
+    
+  
+  <img src="https://s00.yaplakal.com/pics/pics_original/9/5/0/14485059.jpg" height="250" width="300">
+  </a>
+</p>
+<p>
+  <a href="https://ru.wikipedia.org/wiki/Херрингтон,_Билли" target="_blank">
+
+  
+  <img class="billy" src="https://game-roblox.ru/wp-content/uploads/2023/02/Screenshot_1-13.jpg" height="250" width="300">
+</a>
+  <style> 
+    .billy {
+    margin-top: -265px;
+    margin-left: 1080px;
+    }
+  
+    
+   
+    
+  </style>
+    
+    
+  
+</p>
